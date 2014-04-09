@@ -1,11 +1,11 @@
 #Métodos Potenciais
 
 
-[Oliveira Jr., V. C. ^1](http://fatiando.org/people/oliveira-jr/)
-[Uieda, L.^12^](http://www.leouieda.com/)
-[Barbosa, V. C. F.^1^](http://lattes.cnpq.br/0391036221142471)
+[Oliveira Jr., V. C.$^1$](http://fatiando.org/people/oliveira-jr/), 
+[Uieda, L. *#](http://www.leouieda.com/), 
+[Barbosa, V. C. F. *](http://lattes.cnpq.br/0391036221142471)
 
-^1^*Observatório Nacional*;^2^*Universidade do Estado do Rio de Janeiro*
+$^1$*Observatório Nacional*; *Universidade do Estado do Rio de Janeiro*
 
 ##Resumo:
 
