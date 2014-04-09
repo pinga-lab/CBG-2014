@@ -1,11 +1,11 @@
 #Métodos Potenciais
 
 
-[Oliveira Jr., V. C.^1^](http://fatiando.org/people/oliveira-jr/)
-[Uieda, L.^12^](http://www.leouieda.com/)
-[Barbosa, V. C. F.^1^](http://lattes.cnpq.br/0391036221142471)
+[Oliveira Jr., V. C.](http://fatiando.org/people/oliveira-jr/)<sup>1</sup>, 
+[Uieda, L.](http://www.leouieda.com/)<sup>12</sup>, 
+[Barbosa, V. C. F.](http://lattes.cnpq.br/0391036221142471)<sup>1</sup>
 
-^1^*Observatório Nacional*;^2^*Universidade do Estado do Rio de Janeiro*
+<sup>1</sup>[*Observatório Nacional*](http://www.on.br/); <sup>2</sup>[*Universidade do Estado do Rio de Janeiro*](http://www.uerj.br/)
 
 ##Resumo:
 
@@ -75,8 +75,8 @@ más práticas no uso dessas técnicas tão difundidas na indústria e na
 academia.
 
 Todos os códigos para a reprodução dos resultados estão disponibilizados 
-em um repositório do grupo de 
-[**P**roblemas **In**versos em **G**eofísic**a**](https://github.com/pinga-lab/CBG-2014.git)
+em um [repositório](https://github.com/pinga-lab/CBG-2014.git) do grupo de 
+[Problemas INversos em GeofísicA](https://github.com/pinga-lab)
 e são feitos utilizando-se o pacote de inversão e modelagem geofísica 
 [Fatiando a Terra](http://fatiando.org/), que é um projeto de sofware livre 
-e distribuído gratuitamente na internet. 
+distribuído gratuitamente na internet. 
