@@ -1,12 +1,11 @@
 #Métodos Potenciais
 
 
-[Oliveira Jr., V. C. <sup>1</sup>](http://fatiando.org/people/oliveira-jr/), 
-[Uieda, L. <sup>12</sup>](http://www.leouieda.com/), 
-[Barbosa, V. C. F. <sup>1</sup>](http://lattes.cnpq.br/0391036221142471)
+[Oliveira Jr., V. C.](http://fatiando.org/people/oliveira-jr/)<sup>1</sup>, 
+[Uieda, L.](http://www.leouieda.com/)<sup>12</sup>, 
+[Barbosa, V. C. F.](http://lattes.cnpq.br/0391036221142471)<sup>1</sup>
 
-<sup>1</sup>[*Observatório Nacional*](www.on.br); 
-<sup>2</sup>[*Universidade do Estado do Rio de Janeiro*](http://www.uerj.br/)
+<sup>1</sup>[*Observatório Nacional*](http://www.on.br/); <sup>2</sup>[*Universidade do Estado do Rio de Janeiro*](http://www.uerj.br/)
 
 ##Resumo:
 
