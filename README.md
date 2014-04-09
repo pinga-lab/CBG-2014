@@ -76,7 +76,7 @@ academia.
 
 Todos os códigos para a reprodução dos resultados estão disponibilizados 
 em um repositório do grupo de 
-[_P_roblemas _In_versos em _G_eofísic_a_](https://github.com/pinga-lab/CBG-2014.git)
+[Problemas INversos em GeofísicA](https://github.com/pinga-lab/CBG-2014.git)
 e são feitos utilizando-se o pacote de inversão e modelagem geofísica 
 [Fatiando a Terra](http://fatiando.org/), que é um projeto de sofware livre 
 distribuído gratuitamente na internet. 
