@@ -15,7 +15,7 @@ Evento
 ------
 
 [*47<sup>o</sup> Congresso Brasileiro de Geologia*](http://www.47cbg.com.br/), 
-21 a 26 de setembro de 2014
+21 a 26 de setembro de 2014, 
 Salvador, Bahia
 
 Resumo
