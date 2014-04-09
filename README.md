@@ -1,13 +1,25 @@
-#Métodos Potenciais
+Métodos Potenciais
+==================
 
+Autores
+-------
 
 [Oliveira Jr., V. C.](http://fatiando.org/people/oliveira-jr/)<sup>1</sup>, 
 [Uieda, L.](http://www.leouieda.com/)<sup>12</sup>, 
 [Barbosa, V. C. F.](http://lattes.cnpq.br/0391036221142471)<sup>1</sup>
 
-<sup>1</sup>[*Observatório Nacional*](http://www.on.br/); <sup>2</sup>[*Universidade do Estado do Rio de Janeiro*](http://www.uerj.br/)
+<sup>1</sup>[*Observatório Nacional*](http://www.on.br/) ; <sup>2</sup>
+[*Universidade do Estado do Rio de Janeiro*](http://www.uerj.br/)
 
-##Resumo:
+Evento
+------
+
+[*47<sup>o</sup> Congresso Brasileiro de Geologia*](http://www.47cbg.com.br/)
+21 a 26 de setembro de 2014
+Salvador, Bahia
+
+Resumo
+------
 
 A magnetometria e a gravimetria são dois dos mais antigos métodos geofísicos 
 e fazem parte do que se conhece como métodos potenciais. 
