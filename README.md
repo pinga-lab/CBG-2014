@@ -1,7 +1,7 @@
 #Métodos Potenciais
 
 
-[Oliveira Jr., V. C.^1^](http://fatiando.org/people/oliveira-jr/)
+[Oliveira Jr., V. C. ^1](http://fatiando.org/people/oliveira-jr/)
 [Uieda, L.^12^](http://www.leouieda.com/)
 [Barbosa, V. C. F.^1^](http://lattes.cnpq.br/0391036221142471)
 
