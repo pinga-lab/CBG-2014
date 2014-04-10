@@ -1,5 +1,5 @@
-Métodos Potenciais: Exemplos e Aplicações
-=========================================
+ALGUNS EXEMPLOS DE USOS E ABUSOS EM MÉTODOS POTENCIAIS
+======================================================
 
 Autores
 -------
