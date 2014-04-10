@@ -26,7 +26,7 @@ fazem parte do que se conhece como métodos potenciais. O uso da magnetometria
 na exploração mineral remonta ao início do século XVII. Posteriormente, 
 durante a segunda guerra mundial, a magnetometria foi fortemente impulsionada 
 pelo desenvolvimento de magnetômetros utilizados em aeronaves. Já o uso da 
-gravimetria na exploração mineral remonta ao início do século XX e foi 
+gravimetria na exploração remonta ao início do século XX e foi 
 impulsionado pelo interesse de empresas de petróleo na 
 exploração de óleo e gás. A aplicação dos métodos potenciais na exploração 
 mineral foi extremamente beneficiada pelo desenvolvimento de equipamentos 
