@@ -1,5 +1,5 @@
-Métodos Potenciais
-==================
+Métodos Potenciais: Exemplos e Aplicações
+=========================================
 
 Autores
 -------
